@@ -1,9 +1,9 @@
 # Smart Investment Portfolio Generator
 
-An educational machine learning project for stock data analysis and portfolio simulation. This project demonstrates how financial datasets can be processed, analyzed, engineered into useful features, and used in ML workflows.
+This is an academic machine learning project focused on financial data analysis, feature engineering, and portfolio-style simulation. It is built to demonstrate how historical market datasets can be cleaned, transformed, analyzed, and used inside a machine learning workflow.
 
-> Disclaimer: This repository is for academic and learning purposes only. It is not financial advice and should not be used for real investment decisions.
+> This project is for learning and portfolio demonstration only. It is not financial advice.
 
-## Project Overview
+## Project Purpose
 
-The
+The purpose
